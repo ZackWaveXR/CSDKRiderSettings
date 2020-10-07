@@ -1,0 +1,7 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl d" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+</keymap>
